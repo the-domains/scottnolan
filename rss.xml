@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[scottnolan]]></title>
+        <description><![CDATA[scottnolan]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jan 2016 14:31:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A few USA stereo types merged into a Confused Cowboy in Monument Valley.]]></title>
+            <description><![CDATA[<article><h1></h1><p>Confused Cowboy</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4291a05debffae2be2d1b6dc25e0b4a510d7a13d.jpg"></article>]]></description>
+            <link>undefineda-few-usa-stereo-types-merged-into-a-confused-cowboy-in-monu/index.html</link>
+            <guid isPermaLink="false">b9ea287d-d264-4faa-ab60-4285e848540f</guid>
+            <pubDate>Wed, 13 Jan 2016 14:31:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
