@@ -1,0 +1,28 @@
+name: scottnolan
+favicon: null
+layout_spectrum: 0.39401938673108816
+typography_spectrum: 0.9173970182891935
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5575172104872763
+  lightness: 0.6428978685289621
+  saturation: 0.5620116791687906
+  rhythmicContrast: 0.5405676448717713
+purpose: []
