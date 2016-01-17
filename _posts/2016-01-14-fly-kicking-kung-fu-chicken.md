@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-16T21:54:37.057Z'
-dateModified: '2016-01-16T21:54:36.586Z'
+datePublished: '2016-01-17T13:30:54.376Z'
+dateModified: '2016-01-17T13:30:47.597Z'
 title: 'Fly kicking "Kung Fu Chicken"'
 author: []
 sourcePath: _posts/2016-01-14-fly-kicking-kung-fu-chicken.md
@@ -22,7 +22,7 @@ url: fly-kicking-kung-fu-chicken/index.html
 _type: Article
 
 ---
-![Kung Fu Chicken](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5db535b17c08f7fa2bec89c26397321fa30b01a5.jpg)
+![Kung Fu Chicken](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9c6a3898db7b87dd0cd2ed37f6e1186eab1ea30.jpg)
 
 # Fly kicking "Kung Fu Chicken"
 
