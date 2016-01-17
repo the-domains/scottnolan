@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T13:47:09.660Z'
+datePublished: '2016-01-17T13:47:09.675Z'
 dateModified: '2016-01-17T13:47:09.315Z'
 title: Confused Cowboy in Monument Valley.
 author: []
