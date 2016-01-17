@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-16T21:53:55.560Z'
-dateModified: '2016-01-16T21:53:52.299Z'
+datePublished: '2016-01-16T21:53:55.869Z'
+dateModified: '2016-01-16T21:53:55.560Z'
 title: Ahhh move outta the way bird brain.
 author: []
 sourcePath: _posts/2016-01-16-ahhh-move-outta-the-way-bird-brain.md
