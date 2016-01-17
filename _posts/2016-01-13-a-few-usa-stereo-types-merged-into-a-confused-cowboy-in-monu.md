@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T13:47:09.936Z'
-dateModified: '2016-01-17T13:47:09.675Z'
+datePublished: '2016-01-17T13:47:10.109Z'
+dateModified: '2016-01-17T13:47:09.685Z'
 title: Confused Cowboy in Monument Valley.
 author: []
 sourcePath: _posts/2016-01-13-a-few-usa-stereo-types-merged-into-a-confused-cowboy-in-monu.md
