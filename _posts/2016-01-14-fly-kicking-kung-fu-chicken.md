@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-16T21:54:36.586Z'
-dateModified: '2016-01-16T21:54:28.721Z'
+datePublished: '2016-01-16T21:54:36.902Z'
+dateModified: '2016-01-16T21:54:36.586Z'
 title: 'Fly kicking "Kung Fu Chicken"'
 author: []
 sourcePath: _posts/2016-01-14-fly-kicking-kung-fu-chicken.md
