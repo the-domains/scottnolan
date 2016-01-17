@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T13:30:54.665Z'
-dateModified: '2016-01-17T13:30:54.376Z'
+datePublished: '2016-01-17T13:32:12.902Z'
+dateModified: '2016-01-17T13:32:05.769Z'
 title: 'Fly kicking "Kung Fu Chicken"'
 author: []
 sourcePath: _posts/2016-01-14-fly-kicking-kung-fu-chicken.md
