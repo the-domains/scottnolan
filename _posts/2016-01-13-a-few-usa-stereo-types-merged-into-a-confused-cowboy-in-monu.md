@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T19:19:34.447Z'
-dateModified: '2016-01-14T19:19:29.153Z'
+datePublished: '2016-01-17T13:47:09.315Z'
+dateModified: '2016-01-17T13:47:07.043Z'
 title: Confused Cowboy in Monument Valley.
 author: []
 sourcePath: _posts/2016-01-13-a-few-usa-stereo-types-merged-into-a-confused-cowboy-in-monu.md
@@ -22,7 +22,7 @@ url: a-few-usa-stereo-types-merged-into-a-confused-cowboy-in-monu/index.html
 _type: Article
 
 ---
-# ![Confused Cowboy](https://s3-us-west-2.amazonaws.com/the-grid-img/p/72288da78ddd946e43381c67ce3126c95cf804f2.png)
+# ![Confused Cowboy](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4b956eb7ea8f75b04b1946a5ef11607ee7cf919.png)
 
 # Confused Cowboy in Monument Valley.
 
